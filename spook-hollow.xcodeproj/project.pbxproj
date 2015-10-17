@@ -402,6 +402,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "spook-hollow/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ccl-studios.spook-hollow";
@@ -413,6 +414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "spook-hollow/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ccl-studios.spook-hollow";
@@ -487,6 +489,7 @@
 				379E6FA21BD1D3F100AC5D51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		379E6FA31BD1D3F100AC5D51 /* Build configuration list for PBXNativeTarget "spook-hollowTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +498,7 @@
 				379E6FA51BD1D3F100AC5D51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		379E6FA61BD1D3F100AC5D51 /* Build configuration list for PBXNativeTarget "spook-hollowUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +507,7 @@
 				379E6FA81BD1D3F100AC5D51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
